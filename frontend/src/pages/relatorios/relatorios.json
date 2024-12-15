@@ -1,0 +1,17 @@
+[
+  {
+    "name": "lista-contatos",
+    "titulo": "Contactos",
+    "objetivo": "Presenta todos los contactos registrados."
+  },
+  {
+    "name": "contatos-por-etiquetas",
+    "titulo": "Contactos por Etiqueta",
+    "objetivo": "Presenta los contactos que fueron señalados con la etiqueta filtrada."
+  },
+  {
+    "name": "estatisticas-atendimentos-usuarios",
+    "titulo": "Resumen de Atenciones por Usuarios",
+    "objetivo": "Presenta el resumen de las atenciones por usuarios."
+  }
+]
